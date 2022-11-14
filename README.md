@@ -1,14 +1,14 @@
 # MedioAmbiente
 
 ## Proyecto hardware Medioambiente
-![Medioambiente] (/MImagenes/1.jpg)
-- [¿Qué es la protección en el medio ambiente?] (/Medioambiente/What.md)
+![Medioambiente](/MImagenes/1.jpg)
+- [¿Qué es la protección en el medio ambiente?](/Medioambiente/What.md)
 
-- [¿Cuáles son los riesgos ambientales?] (/Medioambiente/Riesgos.md)
+- [¿Cuáles son los riesgos ambientales?](/Medioambiente/Riesgos.md)
 ![Medioambiente2](/MImagenes/2.jpg)
-- [Cuáles son los objetivos de la protección del medio ambiente?] (/Medioambiente/Objetivos.md)
+- [Cuáles son los objetivos de la protección del medio ambiente?](/Medioambiente/Objetivos.md)
 
-- [¿Cómo podemos garantizar la protección del medio ambiente?] (/Medioambiente/Proteccion.md)
+- [¿Cómo podemos garantizar la protección del medio ambiente?](/Medioambiente/Proteccion.md)
 ![Medioambiente3](/MImagenes/3.jpg)
 ## Referencias
 
