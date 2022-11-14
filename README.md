@@ -2,7 +2,7 @@
 
 ## Proyecto hardware Medioambiente
 
-![Medioambiente] (/MImagenes/1.jpg)
+![Medioambiente](/MImagenes/1.jpg)
 
 - [¿Qué es la protección en el medio ambiente?](/Medioambiente/What.md)
 
